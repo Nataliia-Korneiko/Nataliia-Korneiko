@@ -5,7 +5,7 @@
 <p>
   <img height="133px" src="https://github-readme-stats.vercel.app/api?username=nataliia-korneiko&show_icons=true&hide_title=true&include_all_commits=true&line_height=21&theme=default" alt="stats" />
   
-  <img height="133px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nataliia-korneiko&layout=compact&hide_title=true&theme=default_repocard" alt="top languages" />
+  <img height="133px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nataliia-korneiko&langs_count=6&layout=compact&hide_title=true&theme=default_repocard" alt="top languages" />
 </p>
 
 ### My stack and tools:
